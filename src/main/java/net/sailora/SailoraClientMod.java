@@ -1,7 +1,7 @@
-package dev.alliedd.sailora;
+package net.sailora;
 
-import dev.alliedd.sailora.input.SkillKeyBinds;
-import dev.alliedd.sailora.network.SkillChannelClient;
+import net.sailora.input.SkillKeyBinds;
+import net.sailora.network.SkillChannelClient;
 import net.fabricmc.api.ClientModInitializer;
 
 public class SailoraClientMod implements ClientModInitializer {

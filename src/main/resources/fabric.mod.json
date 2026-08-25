@@ -4,12 +4,12 @@
   "version": "${version}",
   "name": "Sailora Client",
   "description": "Client-side mod for the Sailora JJK server — enables keybind skill casting.",
-  "authors": [ "alliedd" ],
+  "authors": [ "Sailora" ],
   "contact": {},
   "license": "ARR",
   "environment": "client",
   "entrypoints": {
-    "client": [ "dev.alliedd.sailora.SailoraClientMod" ]
+    "client": [ "net.sailora.SailoraClientMod" ]
   },
   "mixins": [],
   "depends": {

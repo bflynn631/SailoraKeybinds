@@ -19,34 +19,31 @@ Sailora Client adds a dedicated keybind system that lets you cast your technique
 
 | Requirement | Version |
 |-------------|---------|
-| Minecraft | 26.2 (Lunar Client) |
+| Lunar Client | 26.2 |
 | Fabric Loader | ≥ 0.19.3 |
 | Fabric API | 0.156.0+26.2 |
 
-> **Lunar Client users:** install the mod through your Lunar Client profile's mod folder. The mod is client-side only and does not need to be installed on the server.
+> This mod is built for **Lunar Client 26.2**. Other Fabric-compatible launchers running the same Minecraft version may work but are not officially supported.
 
 ---
 
 ## Installation
 
 1. Download the latest `.jar` from the [Releases](../../releases/latest) page
-2. Place it in your Fabric mods folder:
-   - **Lunar Client:** `~/.lunarclient/profiles/<profile>/mods/fabric-<version>/`
-   - **Standard Fabric:** `~/.minecraft/mods/`
+2. Place it in your Lunar Client profile mods folder:
+   - `~/.lunarclient/profiles/<profile>/mods/fabric-26.2/`
 3. Launch the game and join the server
 
 ---
 
 ## Keybinds
 
-All keybinds are unbound by default except **Ability 01**, which defaults to **R**.  
-Configure them in **Options → Controls → Sailora**.
+All keybinds are **unbound by default**. Configure them in **Options → Controls → Sailora**.
 
-| Keybind | Default | Description |
-|---------|---------|-------------|
-| Enable Technique | _unbound_ | Toggles your technique on/off |
-| Technique Ability 01 | R | Casts slot 1 |
-| Technique Ability 02–11 | _unbound_ | Casts slots 2–11 |
+| Keybind | Description |
+|---------|-------------|
+| Enable Technique | Toggles your technique on/off |
+| Technique Ability 01–11 | Casts the corresponding ability slot |
 
 > Abilities only fire while your technique is **enabled**. Toggling it off while mid-cast is safe.
 
@@ -54,4 +51,4 @@ Configure them in **Options → Controls → Sailora**.
 
 ## License
 
-All Rights Reserved — © Alliedd. This mod is provided for use on the Sailora server only.
+All Rights Reserved — © Sailora. This mod is provided for use on the Sailora server only.

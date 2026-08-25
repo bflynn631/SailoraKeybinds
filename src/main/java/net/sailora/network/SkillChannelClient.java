@@ -1,4 +1,4 @@
-package dev.alliedd.sailora.network;
+package net.sailora.network;
 
 import io.netty.buffer.Unpooled;
 import net.fabricmc.fabric.api.client.networking.v1.ClientPlayConnectionEvents;
