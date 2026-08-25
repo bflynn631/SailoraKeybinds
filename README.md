@@ -19,11 +19,11 @@ Sailora Client adds a dedicated keybind system that lets you cast your technique
 
 | Requirement | Version |
 |-------------|---------|
-| Lunar Client | 26.2 |
+| Minecraft | 26.2 |
 | Fabric Loader | ≥ 0.19.3 |
 | Fabric API | 0.156.0+26.2 |
 
-> This mod is built for **Lunar Client 26.2**. Other Fabric-compatible launchers running the same Minecraft version may work but are not officially supported.
+> *Lunar Client is recommended for the best experience.*
 
 ---
 
