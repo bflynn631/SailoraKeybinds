@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "sailora-client",
+  "version": "${version}",
+  "name": "Sailora Client",
+  "description": "Client-side mod for the Sailora JJK server — enables keybind skill casting.",
+  "authors": [ "alliedd" ],
+  "contact": {},
+  "license": "ARR",
+  "environment": "client",
+  "entrypoints": {
+    "client": [ "dev.alliedd.sailora.SailoraClientMod" ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}
