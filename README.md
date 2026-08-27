@@ -1,8 +1,8 @@
-# Sailora Client
+# Sailora Keybinds
 
 **The official client-side mod for the Sailora JujutsuKaisen Minecraft server.**
 
-Sailora Client adds a dedicated keybind system that lets you cast your technique's abilities directly from your keyboard — no item-swapping required. The mod communicates seamlessly with the server to activate the right skill at the right time.
+Sailora Keybinds adds a dedicated keybind system that lets you cast your technique's abilities directly from your keyboard — no item-swapping required. The mod communicates seamlessly with the server to activate the right skill at the right time.
 
 ---
 
@@ -30,7 +30,7 @@ Sailora Client adds a dedicated keybind system that lets you cast your technique
 ## Installation
 
 1. Download the latest `.jar` from the [Releases](../../releases/latest) page
-2. Place it in your Lunar Client profile mods folder:
+2. Place it in your Minecraft mods folder (or the mod folder for your client of choice):
    - `~/.lunarclient/profiles/<profile>/mods/fabric-26.2/`
 3. Launch the game and join the server
 

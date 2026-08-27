@@ -1,15 +1,15 @@
 {
   "schemaVersion": 1,
-  "id": "sailora-client",
+  "id": "sailora-keybinds",
   "version": "${version}",
-  "name": "Sailora Client",
+  "name": "Sailora Keybinds",
   "description": "Client-side mod for the Sailora JJK server — enables keybind skill casting.",
   "authors": [ "Sailora" ],
   "contact": {},
   "license": "ARR",
   "environment": "client",
   "entrypoints": {
-    "client": [ "net.sailora.SailoraClientMod" ]
+    "client": [ "net.sailora.SailoraKeybindsMod" ]
   },
   "mixins": [],
   "depends": {

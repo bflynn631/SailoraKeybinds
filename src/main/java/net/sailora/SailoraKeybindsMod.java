@@ -4,7 +4,7 @@ import net.sailora.input.SkillKeyBinds;
 import net.sailora.network.SkillChannelClient;
 import net.fabricmc.api.ClientModInitializer;
 
-public class SailoraClientMod implements ClientModInitializer {
+public class SailoraKeybindsMod implements ClientModInitializer {
 
     @Override
     public void onInitializeClient() {
